@@ -25,7 +25,10 @@
             <version>${lcn.last.version}</version>
         </dependency>
 
-   项目配置文件中需要加上<context:component-scan base-package="com.codingapi.tx.*"/>
+   项目配置文件中需要加上<context:component-scan base-package="com.codingapi.tx.*"/></p>
+   LCN原理:https://github.com/codingapi/tx-lcn/wiki/LCN%E5%8E%9F%E7%90%86 </p>
+   框架源码:https://github.com/codingapi/tx-lcn</p>
+   demo:https://github.com/codingapi/dubbo-lcn-demo</p>
 
    
    
